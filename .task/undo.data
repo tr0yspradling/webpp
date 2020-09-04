@@ -433,3 +433,120 @@ new [description:"add tasks in the README file" entry:"1585513329" modified:"158
 time 1585513401
 new [description:"add CI\/CD Auto DevOps into the project" entry:"1585513401" modified:"1585513401" project:"ci_cd" status:"pending" uuid:"59a5bc8f-447f-47e7-8050-c0201ce00ba6"]
 ---
+time 1585775732
+new [description:"Make travis build successful" entry:"1585775732" modified:"1585775732" project:"pub" status:"pending" uuid:"8b85db80-0692-41fb-906f-b3534b1e8000"]
+---
+time 1585953643
+old [description:"learn how to work with error_code" entry:"1585509190" modified:"1585509190" project:"fcgi" status:"pending" uuid:"39d27a15-6c22-44df-b80f-6d2161811bc9"]
+new [description:"learn how to work with error_code" end:"1585953643" entry:"1585509190" modified:"1585953643" project:"fcgi" status:"completed" uuid:"39d27a15-6c22-44df-b80f-6d2161811bc9"]
+---
+time 1585953767
+new [description:"add a license" entry:"1585953767" modified:"1585953767" project:"pub" status:"pending" uuid:"280f7f2e-4c54-4e32-8661-b9710ab03ed7"]
+---
+time 1585955014
+old [description:"add a license" entry:"1585953767" modified:"1585953767" project:"pub" status:"pending" uuid:"280f7f2e-4c54-4e32-8661-b9710ab03ed7"]
+new [description:"add a license" end:"1585955014" entry:"1585953767" modified:"1585955014" project:"pub" status:"completed" uuid:"280f7f2e-4c54-4e32-8661-b9710ab03ed7"]
+---
+time 1586100697
+new [description:"optimize ipv6 and checkout the benchmark" entry:"1586100697" modified:"1586100697" project:"performance" status:"pending" uuid:"6202d19b-973a-4723-b0cb-b5ea26ab7f51"]
+---
+time 1586273459
+new [description:"add thread_pool support" entry:"1586273459" modified:"1586273459" status:"pending" uuid:"3e79f48e-c6e6-4d5d-b68f-c9e1e2332e92"]
+---
+time 1586285885
+new [description:"add a high level testing library that uses gtest and catch2 and boost.test and others" entry:"1586285885" modified:"1586285885" project:"tests" status:"pending" uuid:"ffea4453-3ea5-4f14-aa59-29bbb0d33a07"]
+---
+time 1586285928
+new [description:"convert existing tests into your own testing library" entry:"1586285928" modified:"1586285928" project:"tests" status:"pending" uuid:"d6cb4994-f5b1-4966-a919-3f543d40a6cc"]
+---
+time 1586651504
+new [description:"add clustering comminication base classes" entry:"1586651504" modified:"1586651504" project:"cluster" status:"pending" uuid:"1fdff8a6-273f-4a52-88c3-ff88cea9fb2e"]
+---
+time 1586651531
+new [description:"clusters can run a thread_pool too" entry:"1586651531" modified:"1586651531" project:"cluster" status:"pending" uuid:"065f8fe8-d9a7-4200-ae08-341340efd88e"]
+---
+time 1586651552
+new [description:"implement thread_pool classes" entry:"1586651552" modified:"1586651552" project:"cluster" status:"pending" uuid:"143619d9-74ec-47c0-8036-5e87e7d3f824"]
+---
+time 1587016661
+new [description:"thread-safe properties with the help of marcos or pre-compile code generation based on the spacified class or type" entry:"1587016661" modified:"1587016661" project:"cluster" status:"pending" uuid:"aea14361-c9be-4d68-8510-bdc05a751064"]
+---
+time 1587018438
+new [description:"see if it's possible to use operator overloading magics to implement threadsafe properties" entry:"1587018438" modified:"1587018438" project:"cluster" status:"pending" uuid:"2aea4654-a74b-4414-8c62-c47672395f9c"]
+---
+time 1587036554
+new [description:"add fast and thread-safe class template for containers" entry:"1587036554" modified:"1587036554" project:"thread" status:"pending" uuid:"1c6cd1b3-17c9-44c6-9c1f-c7c64612a96d"]
+---
+time 1587047171
+new [description:"add defined(__has_include) macro for safty" entry:"1587047171" modified:"1587047171" status:"pending" uuid:"c648e333-3205-47ae-9f4a-243758ddb3f7"]
+---
+time 1587133796
+new [description:"a valve that limits user visits" entry:"1587133796" modified:"1587133796" project:"valves" status:"pending" uuid:"18762cae-5ebe-4aac-b1e2-429b272efb6f"]
+---
+time 1587133845
+new [description:"a valve that only allows guests" entry:"1587133845" modified:"1587133845" project:"valves" status:"pending" uuid:"d8196883-11eb-48ef-84c1-fa9f0002fd9c"]
+---
+time 1587133855
+new [description:"a valve that only allows registered users" entry:"1587133855" modified:"1587133855" project:"valves" status:"pending" uuid:"10cbdc1f-284f-45b9-86a8-9d825eb87230"]
+---
+time 1587134019
+new [description:"a valve that wraps a function" entry:"1587134019" modified:"1587134019" project:"valves" status:"pending" uuid:"48c08fbb-9cfe-4be3-b20b-703415927613"]
+---
+time 1587144992
+new [description:"find a better way to specialize empty_t" entry:"1587144992" modified:"1587144992" project:"valves" status:"pending" uuid:"725c4707-29eb-4549-94c2-615190b86ae8"]
+---
+time 1587181023
+new [description:"add jetbrains logo" entry:"1587181023" modified:"1587181023" status:"pending" uuid:"75fd27e4-fb61-4397-89de-1558f07a5f23"]
+---
+time 1587982952
+new [description:"convert to_uint and friend. I mean their usage" entry:"1587982952" modified:"1587982952" project:"traits" status:"pending" uuid:"89885db7-3262-48e9-88d1-f40f1e2d0e3f"]
+---
+time 1587982966
+new [description:"convert ipv4" entry:"1587982966" modified:"1587982966" project:"traits" status:"pending" uuid:"9f0a7c72-3b23-45b8-af1c-00c549c6fa63"]
+---
+time 1587982986
+new [description:"convert validators" entry:"1587982986" modified:"1587982986" project:"traits" status:"pending" uuid:"bbfdc424-1325-4c03-b853-f26519e7453f"]
+---
+time 1587983058
+new [description:"convert utils\/string.h file." entry:"1587983058" modified:"1587983058" project:"traits" status:"pending" uuid:"7c7837e7-6803-4b7f-ac37-76fc1b478ee9"]
+---
+time 1588086547
+new [description:"add dependency injection to the routes" entry:"1588086547" modified:"1588086547" project:"routes" status:"pending" uuid:"f40319a7-85d2-41d5-9b02-50fb9c48da07"]
+---
+time 1588342796
+old [description:"add dependency injection to the routes" entry:"1588086547" modified:"1588086547" project:"routes" status:"pending" uuid:"f40319a7-85d2-41d5-9b02-50fb9c48da07"]
+new [description:"add dependency injection to the routes" end:"1588342796" entry:"1588086547" modified:"1588342796" project:"routes" status:"completed" uuid:"f40319a7-85d2-41d5-9b02-50fb9c48da07"]
+---
+time 1588343006
+new [description:"rename the routes to entry_route or entryroute or root_route or rootroute" entry:"1588343006" modified:"1588343006" project:"routes" status:"pending" uuid:"f69f9adf-93a4-4f72-b176-246295a2d786"]
+---
+time 1588343063
+new [description:"rename the valves to route or subroute" entry:"1588343063" modified:"1588343063" project:"routes" status:"pending" uuid:"9f6d01ad-0b48-44c5-96a6-2ce5310ded4b"]
+---
+time 1588359953
+new [description:"create the context template class" entry:"1588359953" modified:"1588359953" project:"routes" status:"pending" uuid:"48b5a27b-7f0a-431a-a826-e05f5e920032"]
+---
+time 1588893728
+new [description:"Add custom clang-check matchers to chatch some bugs before they happen for the final user" entry:"1588893728" modified:"1588893728" project:"clang" status:"pending" uuid:"7514ece6-2018-4563-a58c-5509d0933bb7"]
+---
+time 1590500267
+new [description:"give the user the ability to change the status phrase of status code" entry:"1590500267" modified:"1590500267" project:"headers" status:"pending" uuid:"a0fcf05c-4d80-4ca2-bef6-03e32d230a5f"]
+---
+time 1590592146
+new [description:"parse request cookie" entry:"1590592146" modified:"1590592146" project:"cookies" status:"pending" uuid:"fa45e209-fd9d-46e7-a7ee-b0e6f412838d"]
+---
+time 1590592155
+new [description:"parse response cookies" entry:"1590592155" modified:"1590592155" project:"cookies" status:"pending" uuid:"1cc1e3e9-c86a-4908-977c-4f404839060f"]
+---
+time 1590592167
+new [description:"add cookie extensions" entry:"1590592167" modified:"1590592167" project:"cookies" status:"pending" uuid:"d76861c4-0eab-49ae-aa97-ec01d10b826b"]
+---
+time 1590592182
+new [description:"add extension for session management" entry:"1590592182" modified:"1590592182" project:"cookies" status:"pending" uuid:"2b08643f-3647-4bba-a920-1f5228042dad"]
+---
+time 1590592199
+new [description:"implement encrypted cookies" entry:"1590592199" modified:"1590592199" project:"cookies" status:"pending" uuid:"7d870903-14d1-4e0b-afab-58e20d981dc2"]
+---
+time 1596961401
+new [description:"checkout -flto compiler option" entry:"1596961401" modified:"1596961401" project:"performance" status:"pending" uuid:"aa6df888-46bd-48ad-a110-369708f75a4e"]
+---
